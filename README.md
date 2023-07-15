@@ -36,7 +36,7 @@ Frappe is a full stack, batteries-included, web framework written in Python and 
 ### HERO
 The hero section of a webpage or landing page is the first and most prominent section that appears at the top of the page.It includes title, subtitle and call to action labels.
 
-! [Hero Template](https://github.com/JaspinderKaurWalia26/Frappe/assets/132120070/39cd2b15-6646-44dd-9ff7-8bfa88d796d0)
+![hero section](https://github.com/JaspinderKaurWalia26/Frappe/assets/132120070/7839b14d-7742-460b-b30b-4c3bee25e3c4)
 
 ### HERO WITH RIGHT IMAGE
 It includes title, subtitle, call to action labels and right image.With the help of  hero with right image template in Frappe Page Builder, you can create an eye-catching hero section that will captivate your visitors and leave a lasting impression. 
