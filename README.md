@@ -22,7 +22,11 @@ Frappe is a full stack, batteries-included, web framework written in Python and 
  10. Click on the Edit Values button.
  11. Enter values in the dialog and click on Submit.
  12. Click on Save.
- 13. You can add more sections to your page by adding more rows in the Page Building Blocks table. 
+ 13. You can add more sections to your page by adding more rows in the Page Building Blocks table.
+
+ ! [Example Image](C:\Users\jaspi\OneDrive\Desktop\jasnew.png)
+
+
 
 
 
