@@ -24,7 +24,7 @@ Frappe is a full stack, batteries-included, web framework written in Python and 
  12. Click on Save.
  13. You can add more sections to your page by adding more rows in the Page Building Blocks table.
 
- ! [Example Image](C:\Users\jaspi\OneDrive\Desktop\jasnew.png)
+ ! [Example Image](https://github.com/JaspinderKaurWalia26/Files/assets/132120070/4533eec2-020f-4356-8414-d6b8deed8ae0)
 
 
 
