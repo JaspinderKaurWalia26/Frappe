@@ -34,6 +34,10 @@ The hero section of a webpage or landing page is the first and most prominent se
 
 ! [Hero Template](https://github.com/JaspinderKaurWalia26/Frappe/assets/132120070/39cd2b15-6646-44dd-9ff7-8bfa88d796d0)
 
+### HERO WITH RIGHT IMAGE
+It includes title, subtitle, call to action labels and right image.With the help of  hero with right image template in Frappe Page Builder, you can create an eye-catching hero section that will captivate your visitors and leave a lasting impression. 
+
+
 
 
 
