@@ -8,8 +8,8 @@ Frappe is a full stack, batteries-included, web framework written in Python and 
 - Integrated tools: Frappe comes with a range of integrated tools, such as the Page Builder and Report Builder, that make it easier to create complex web applications without writing a lot of code.
 - Open source: Frappe is an open-source framework, which means it is free to use.
 
-## Creating Webpages using Page Builder 
- ### Steps for Creating Webpage
+## Creating Webpages using Page Builder
+###  Steps for Creating Webpage
  1. Log in to your frappe account using your username and password.
  2. Click on switch to desk.
  3. Click on website and then on webpage.
