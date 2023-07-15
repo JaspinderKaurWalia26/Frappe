@@ -30,8 +30,7 @@ Frappe is a full stack, batteries-included, web framework written in Python and 
  
 A website template is a pre-designed webpage or set of pages that anyone can use to create a website. It is a predesigned resource that shows the structure for the comprehensive layout and display features of any website. Web templates are basically ready-made design frameworks that only require custom content to become full-fledged websites.
 
-##   Some Web Templates
-
+## Some Web Templates
 ### HERO
 The hero section of a webpage or landing page is the first and most prominent section that appears at the top of the page.It includes title, subtitle and call to action labels.
 
