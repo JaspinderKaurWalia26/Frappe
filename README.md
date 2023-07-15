@@ -9,7 +9,7 @@ Frappe is a full stack, batteries-included, web framework written in Python and 
 - Open source: Frappe is an open-source framework, which means it is free to use.
 
 ## Creating Webpages using Page Builder 
- ### Steps for Creating Webpage
+ ###  Steps for Creating Webpage
  1. Log in to your frappe account using your username and password.
  2. Click on switch to desk.
  3. Click on website and then on webpage.
@@ -30,13 +30,12 @@ Frappe is a full stack, batteries-included, web framework written in Python and 
  
 A website template is a pre-designed webpage or set of pages that anyone can use to create a website. It is a predesigned resource that shows the structure for the comprehensive layout and display features of any website. Web templates are basically ready-made design frameworks that only require custom content to become full-fledged websites.
 
-## Some Web Templates
+##   Some Web Templates
 
 ### HERO
 The hero section of a webpage or landing page is the first and most prominent section that appears at the top of the page.It includes title, subtitle and call to action labels.
 
 ! [Hero Template](https://github.com/JaspinderKaurWalia26/Frappe/assets/132120070/39cd2b15-6646-44dd-9ff7-8bfa88d796d0)
-
 
 
 
