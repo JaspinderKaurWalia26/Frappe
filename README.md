@@ -38,6 +38,11 @@ The hero section of a webpage or landing page is the first and most prominent se
 ### HERO WITH RIGHT IMAGE
 It includes title, subtitle, call to action labels and right image.With the help of  hero with right image template in Frappe Page Builder, you can create an eye-catching hero section that will captivate your visitors and leave a lasting impression. 
 
+! [Hero with right image template](https://github.com/JaspinderKaurWalia26/Frappe/assets/132120070/21a322b5-15db-461c-a897-c7a6a65b2ed6)
+
+### SECTION WITH SMALL CTA
+It includes title,subtitle,call to action label,call to action url.A small call to action (CTA) can be added to a section as a way to encourage viewers to take a specific action such as signing up for a newsletter or purchasing a produc
+
 
 
 
