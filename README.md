@@ -28,7 +28,6 @@ Frappe is a full stack, batteries-included, web framework written in Python and 
 ![jasnew](https://github.com/JaspinderKaurWalia26/Frappe/assets/132120070/6efec548-5afd-4612-a8e6-5717d5e6ee6b)
 
 
- ! [Example Image](https://github.com/JaspinderKaurWalia26/Files/assets/132120070/4533eec2-020f-4356-8414-d6b8deed8ae0)
  
 ## What are Web Templates?
  A website template is a pre-designed webpage or set of pages that anyone can use to create a website. It is a predesigned resource that shows the structure for the comprehensive layout and display features of any website. Web templates are basically ready-made design frameworks that only require custom content to become full-fledged websites.
