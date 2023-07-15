@@ -34,7 +34,7 @@ A website template is a pre-designed webpage or set of pages that anyone can use
 
 ### HERO
 The hero section of a webpage or landing page is the first and most prominent section that appears at the top of the page.It includes title, subtitle and call to action labels.
-! [Hero Template]((https://github.com/JaspinderKaurWalia26/Frappe/assets/132120070/39cd2b15-6646-44dd-9ff7-8bfa88d796d0)
+! [Hero Template](https://github.com/JaspinderKaurWalia26/Frappe/assets/132120070/39cd2b15-6646-44dd-9ff7-8bfa88d796d0)
 
 
 
