@@ -51,6 +51,9 @@ It includes title,subtitle,call to action label,call to action url.A small call 
 
 ![section with small CTA Template](https://github.com/JaspinderKaurWalia26/Frappe/assets/132120070/aacae3a4-3ee2-4f41-b1af-f7bb3899d2d5)
 
+### SECTION WITH TABS
+In the Frappe Framework Page Builder, a "section with tabs" is a type of container or block of content that includes multiple tabs, each of which contains a separate set of content. This allows you to organize related information into different tabs, making it easier for viewers to navigate and find the information they need.
+
 
 
 
