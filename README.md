@@ -56,6 +56,8 @@ In the Frappe Framework Page Builder, a "section with tabs" is a type of contain
 
 ![section with tabs](https://github.com/JaspinderKaurWalia26/Frappe/assets/132120070/231c46d9-747a-4118-aee1-174a3cb0d65a)
 
+### SECTION WITH CARDS
+In the Frappe Framework Page Builder, a "section with cards template" is a type of container or block of content that includes a set of cards, each of which contains a separate set of information. This allows you to present related information in a visually appealing and structured way.
 
 
 
